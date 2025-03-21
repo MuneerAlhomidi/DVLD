@@ -1,0 +1,6 @@
+C:\Users\ONE BY ONE\source\repos\DVDL_DataAccess\bin\Debug\DVDL_DataAccess.dll
+C:\Users\ONE BY ONE\source\repos\DVDL_DataAccess\bin\Debug\DVDL_DataAccess.pdb
+C:\Users\ONE BY ONE\source\repos\DVDL_DataAccess\obj\Debug\DVDL_DataAccess.csproj.AssemblyReference.cache
+C:\Users\ONE BY ONE\source\repos\DVDL_DataAccess\obj\Debug\DVDL_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ONE BY ONE\source\repos\DVDL_DataAccess\obj\Debug\DVDL_DataAccess.dll
+C:\Users\ONE BY ONE\source\repos\DVDL_DataAccess\obj\Debug\DVDL_DataAccess.pdb
